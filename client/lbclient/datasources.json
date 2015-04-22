@@ -1,6 +1,7 @@
 {
   "remote": {
-    "connector": "remote"
+    "connector": "remote",
+    "url": "/api"
   },
   "local": {
     "connector": "memory",
